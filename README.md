@@ -5,6 +5,7 @@ This is repository contains files to test the [NRF24 package](https://github.com
 ## Related issues
 
 [#3: Packages arrive only when auto_ack: true](https://github.com/ludiazv/node-nrf24/issues/3)
+
 [#4: Performance issues](https://github.com/ludiazv/node-nrf24/issues/4)
 
 ## Preparation
